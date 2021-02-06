@@ -1,0 +1,56 @@
+img{
+    width: 100%;
+}
+.tit{
+    background-color: #FFEED0;
+}
+.sc{
+    position: relative;
+    top: 50px;
+
+}
+.navbar-custom{
+    background-color:#FFEED0 ;
+}
+.nav-link{
+    color:#000;
+    font-family: 'Lexend Mega', sans-serif;
+}
+.navbar-brand{
+    color: black;
+    width: 45px;
+}
+h1{
+    font-family: 'Lexend Mega', sans-serif;
+}
+.nav-item{
+    padding: 5px;
+}
+.pro{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+}
+.profile{
+    padding: 10% 15%;
+    text-align: center;
+    margin-top: 3%;
+background-color: #fdcfdf;
+font-family: 'Lexend Mega';
+}
+.profile hr{
+    background-color: #000;
+}
+.custom-toggler.navbar-toggler { 
+    border-color: black; 
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+
+} 
+.education{
+    text-align: center;
+    padding: 5%;
+}
+ .education p{
+text-align:center;
+ }
+
